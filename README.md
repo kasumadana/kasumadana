@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hello everyone! 👋
 
-<!--
-**kasumadana/kasumadana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **I Gede Kasuma Dana**.  
+I am a **Student** at [SMKN 1 Denpasar](https://www.smkn1denpasar.sch.id/).
 
-Here are some ideas to get you started:
+## 📫 Contact Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Email: [kasumadana06@gmail.com](mailto:kasumadana06@gmail.com)
+- Instagram: [kasumadana](https://instagram.com/kasumadana)
+- GitHub: [kasumadana](https://github.com/kasumadana)
+
+## 🛠️ My Skills
+
+- **Programming Language:** Pascal
+
+## 🌟 Latest Project
+
+### Perang Pandan
+A simple scratch game that simulates Perang Pandan, a unique tradition from Tenganan Village in Bali, where two players fight using thorny pandan leaves as weapons and shields.  
+[Perang Pandan](https://scratch.mit.edu/projects/1104527429)
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasumadana&show_icons=true&theme=radical)
+
+## 🌐 Languages
+
+- **Languages I Speak:** Indonesian, English, Balinese
+
+Thank you for visiting my profile! If you are interested in getting to know me better, feel free to contact me.
