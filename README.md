@@ -1,52 +1,67 @@
-# Hello, I'm I Gede Kasuma Dana! 👋
+# I GEDE KASUMA DANA
 
-I'm a high school student specializing in **Software Engineering** at [SMKN 1 Denpasar](https://www.smkn1denpasar.sch.id/).  
-Passionate about IT and innovative solutions, I continuously work on enhancing my technical and soft skills to contribute to dynamic projects.
+> Software Engineering Student
 
----
-
-## 📫 Contact Me
-
-- **Email:** [kasumadana06@gmail.com](mailto:kasumadana06@gmail.com)
-- **Instagram:** [kasumadana](https://instagram.com/kasumadana)
-- **LinkedIn:** [I Gede Kasuma Dana](https://www.linkedin.com/in/kasumadana/)
-- **GitHub:** [kasumadana](https://github.com/kasumadana)
+Membangun arsitektur digital dengan fokus pada presisi data relasional, minimalisme struktural, dan fungsi murni. Berfokus pada pengembangan penuh (full-stack) aplikasi web, sistem mobile, serta integrasi kecerdasan buatan (AI) terapan.
 
 ---
 
-## 🛠️ Skills
+## 01 / VERIFIED CREDENTIALS
 
-- **Programming Languages:** C, Java, JS, Python, Pascal
-- **Graphic Design:** Basic design skills
-- **Microsoft Office:** Word, Excel, PowerPoint
-- **Robotics:** Basic knowledge
-- **Soft Skills:** Teamwork, Problem Solving
-
----
-
-## 🌟 Latest Project: Perang Pandan
-
-**Perang Pandan** is a simple Scratch game that simulates a unique Balinese tradition from Tenganan Village, where players engage in a playful battle using thorny pandan leaves as weapons and shields.
-
-![Perang Pandan Cover](https://github.com/kasumadana/kasumadana/blob/8498ffd3547b293e5c3a9801dd3cfe4ed65c653a/Thumbnail%20Perang%20Pandan/1.png)
-
-[**Check it out on Scratch**](https://scratch.mit.edu/projects/1104527429)
+* **Juara 2 LKS Web Technology** | Tingkat Provinsi Bali (2026)
+* **Distinction Graduate & Best Capstone (TaruPramana)** | Coding Camp by DBS Foundation (2026)
+* **Distinction Graduate** | Coding Camp by DBS Foundation (2025)
+* **Juara 1** | Cepat Tepat IT Regional (2025)
+* **Juara 2** | AI Website Competition | YCWC (2025)
+* **Juara 2** | IPAS Project Exhibition (2025)
 
 ---
 
-## 📈 GitHub Stats
+## 02 / SELECTED SPECIMENS
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasumadana&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kasumadana&layout=compact&theme=radical)
+### **TaruPramana**
+* **Description**: Sistem rekomendasi tanaman obat herbal tradisional Bali berbasis AI, memetakan manuskrip kuno ke dalam sistem pencarian relasional modern.
+* **Stack**: React, Node.js, Express.js, OpenAI API, Tailwind CSS
+
+### **Siventaris**
+* **Description**: Sistem inventarisasi aset logistik sekolah berbasis pelacakan QR Code secara waktu nyata (*real-time*).
+* **Stack**: Laravel, Livewire, Alpine.js, Tailwind CSS (TALL Stack)
+
+### **Skenspace**
+* **Description**: Platform galeri portofolio digital terintegrasi untuk mewadahi dan mempublikasikan karya terbaik siswa.
+* **Stack**: PHP, MySQL, Vanilla JS
+
+### **Rare Angon: The Sky Runner**
+* **Description**: Eksperimen web game berbasis visi komputer (*machine learning*). Gerakan tubuh fisik mendikte kendali layangan tradisional Bali.
+* **Stack**: JavaScript, TensorFlow MediaPipe, HTML5 Canvas
+
+### **myDuit**
+* **Description**: Modul pencatatan anggaran dan pembukuan finansial pribadi berbasis CLI dengan kalkulasi neraca otomatis.
+* **Stack**: Python
 
 ---
 
-## 🌐 Languages
+## 03 / TECHNICAL CAPABILITIES
 
-- **Indonesian**
-- **English**
-- **Balinese**
+| Category | Stack Specimen |
+| --- | --- |
+| **Languages** | PHP, JavaScript (ES6+), Python, HTML5, CSS3 |
+| **Frameworks** | Laravel, React, Node.js, Express, Livewire, Alpine.js, Tailwind CSS |
+| **Databases** | MySQL, PhpMyAdmin, PostgreSQL |
+| **Toolset** | Git, GitHub, VS Code, RESTful API, AI Model Integration |
 
 ---
 
-Thank you for visiting my profile! If you're interested in connecting or collaborating, feel free to reach out.
+## 04 / BACKGROUND & PHILOSOPHY
+
+Aktif menempuh pendidikan kompetensi Rekayasa Perangkat Lunak (RPL) di SMK Negeri 1 Denpasar. Memiliki ketertarikan mendalam pada titik temu antara logika pemrograman dan harmoni estetika visual. 
+
+Di luar dunia kode, saya memiliki hobi untuk memainkan alat musik yang melatih kedisiplinan dan kolaborasi ritme yang diimplementasikan langsung ke dalam penataan arsitektur perangkat lunak yang bersih, modular, dan efisien.
+
+---
+
+## 05 / CHANNELS
+
+* **Email**: [kasumadana06@gmail.com](mailto:kasumadana06@gmail.com)
+* **LinkedIn**: [I Gede Kasuma Dana](https://www.linkedin.com/in/kasumadana/)
+* **Portfolio**: [kasuma.vercel.app](https://www.kasuma.vercel.app)
