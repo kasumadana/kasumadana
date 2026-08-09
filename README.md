@@ -1,67 +1,58 @@
-# I GEDE KASUMA DANA
+<h1 align="center">Hi 👋, I'm Kasuma Dana</h1>
 
-> Software Engineering Student
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Header Banner" width="100%" />
+</p>
 
-Membangun arsitektur digital dengan fokus pada presisi data relasional, minimalisme struktural, dan fungsi murni. Berfokus pada pengembangan penuh (full-stack) aplikasi web, sistem mobile, serta integrasi kecerdasan buatan (AI) terapan.
+## 🚀 About Me
+Siswa Rekayasa Perangkat Lunak di SMK Negeri 1 Denpasar yang berfokus pada pengembangan Full-Stack Web. Gemar membangun sistem yang efisien dengan antarmuka yang rapi dan bersih.
 
----
+### 🏆 Key Credentials
+- **Juara 2 LKS Web Technology** — Tingkat Provinsi Bali (2026)
+- **Distinction Graduate & Best Capstone (TaruPramana)** — Coding Camp by DBS Foundation (2026)
+- **Juara 1 Cepat Tepat IT Regional** & **Juara 2 AI Website Competition YCWC** (2025)
 
-## 01 / VERIFIED CREDENTIALS
-
-* **Juara 2 LKS Web Technology** | Tingkat Provinsi Bali (2026)
-* **Distinction Graduate & Best Capstone (TaruPramana)** | Coding Camp by DBS Foundation (2026)
-* **Distinction Graduate** | Coding Camp by DBS Foundation (2025)
-* **Juara 1** | Cepat Tepat IT Regional (2025)
-* **Juara 2** | AI Website Competition | YCWC (2025)
-* **Juara 2** | IPAS Project Exhibition (2025)
-
----
-
-## 02 / SELECTED SPECIMENS
-
-### **TaruPramana**
-* **Description**: Sistem rekomendasi tanaman obat herbal tradisional Bali berbasis AI, memetakan manuskrip kuno ke dalam sistem pencarian relasional modern.
-* **Stack**: React, Node.js, Express.js, OpenAI API, Tailwind CSS
-
-### **Siventaris**
-* **Description**: Sistem inventarisasi aset logistik sekolah berbasis pelacakan QR Code secara waktu nyata (*real-time*).
-* **Stack**: Laravel, Livewire, Alpine.js, Tailwind CSS (TALL Stack)
-
-### **Skenspace**
-* **Description**: Platform galeri portofolio digital terintegrasi untuk mewadahi dan mempublikasikan karya terbaik siswa.
-* **Stack**: PHP, MySQL, Vanilla JS
-
-### **Rare Angon: The Sky Runner**
-* **Description**: Eksperimen web game berbasis visi komputer (*machine learning*). Gerakan tubuh fisik mendikte kendali layangan tradisional Bali.
-* **Stack**: JavaScript, TensorFlow MediaPipe, HTML5 Canvas
-
-### **myDuit**
-* **Description**: Modul pencatatan anggaran dan pembukuan finansial pribadi berbasis CLI dengan kalkulasi neraca otomatis.
-* **Stack**: Python
+### 🛠️ Featured Projects
+- **TaruPramana**: Rekomendasi obat herbal Bali berbasis AI (*React, Express, OpenAI API, Tailwind*).
+- **Siventaris**: Manajemen logistik sekolah real-time berbasis QR Code (*Laravel, Livewire, Alpine.js, Tailwind*).
+- **Skenspace**: Galeri portofolio digital untuk publikasi karya siswa (*PHP, MySQL, Vanilla JS*).
+- **Rare Angon**: Web game kontrol layangan berbasis visi komputer (*TensorFlow MediaPipe, JS*).
 
 ---
 
-## 03 / TECHNICAL CAPABILITIES
+## 📊 GitHub Activity
+<p align="center">
+  <a href="https://github.com/kasumadana">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kasumadana&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="kasumadana's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=kasumadana&theme=github_dark&hide_border=true&cache_seconds=86400" alt="kasumadana's GitHub Streak" width="49%" />
+</p>
 
-| Category | Stack Specimen |
-| --- | --- |
-| **Languages** | PHP, JavaScript (ES6+), Python, HTML5, CSS3 |
-| **Frameworks** | Laravel, React, Node.js, Express, Livewire, Alpine.js, Tailwind CSS |
-| **Databases** | MySQL, PhpMyAdmin, PostgreSQL |
-| **Toolset** | Git, GitHub, VS Code, RESTful API, AI Model Integration |
-
----
-
-## 04 / BACKGROUND & PHILOSOPHY
-
-Aktif menempuh pendidikan kompetensi Rekayasa Perangkat Lunak (RPL) di SMK Negeri 1 Denpasar. Memiliki ketertarikan mendalam pada titik temu antara logika pemrograman dan harmoni estetika visual. 
-
-Di luar dunia kode, saya memiliki hobi untuk memainkan alat musik yang melatih kedisiplinan dan kolaborasi ritme yang diimplementasikan langsung ke dalam penataan arsitektur perangkat lunak yang bersih, modular, dan efisien.
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=kasumadana&theme=github_dark&radius=10" alt="kasumadana's Activity Graph" />
+</p>
 
 ---
 
-## 05 / CHANNELS
+## 📫 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/kasumadana/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://kasuma.ai.studio">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="mailto:kasumadana06@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-* **Email**: [kasumadana06@gmail.com](mailto:kasumadana06@gmail.com)
-* **LinkedIn**: [I Gede Kasuma Dana](https://www.linkedin.com/in/kasumadana/)
-* **Portfolio**: [kasuma.vercel.app](https://www.kasuma.vercel.app)
+<br />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
