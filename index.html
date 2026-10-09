@@ -1,12 +1,344 @@
 <!doctype html>
-<html lang="en">
+<html lang="id">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Kasuma Dana</title>
+    <title>Kasuma Dana — Software Engineer &amp; Portfolio Portal</title>
+    <meta
+      name="description"
+      content="Portal resmi profil dan direktori proyek I Gede Kasuma Dana. Akses portofolio utama (me.kasuma.id), platform edukasi adaptif (aksa.kasuma.id), dan direktori proyek perangkat lunak."
+    />
+    <meta name="author" content="I Gede Kasuma Dana" />
+    <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+    <link rel="canonical" href="https://kasuma.id/" />
+
+    <!-- Open Graph Metadata -->
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:site_name" content="Kasuma Dana" />
+    <meta property="og:title" content="Kasuma Dana — Software Engineer &amp; Portfolio Portal" />
+    <meta
+      property="og:description"
+      content="Portal resmi profil dan direktori proyek I Gede Kasuma Dana. Akses portofolio utama (me.kasuma.id) dan platform pembelajaran adaptif (aksa.kasuma.id)."
+    />
+    <meta property="og:url" content="https://kasuma.id/" />
+    <meta property="og:image" content="https://kasuma.id/assets/profile.webp" />
+
+    <!-- Twitter Card Metadata -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Kasuma Dana — Software Engineer &amp; Portfolio Portal" />
+    <meta
+      name="twitter:description"
+      content="Portal resmi profil dan direktori proyek I Gede Kasuma Dana — Software Engineer asal Bali."
+    />
+    <meta name="twitter:image" content="https://kasuma.id/assets/profile.webp" />
+
+    <!-- Favicon & AI Readability -->
+    <link rel="icon" type="image/svg+xml" href="assets/star.svg" />
+    <link rel="alternate" type="text/markdown" href="/llms.txt" title="LLM Context" />
+
+    <!-- Structured Data (Schema.org WebSite & Person Entity Graph) -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://kasuma.id/#website",
+            "url": "https://kasuma.id/",
+            "name": "Kasuma Dana",
+            "description": "Portal direktori dan identitas digital resmi I Gede Kasuma Dana.",
+            "inLanguage": "id-ID"
+          },
+          {
+            "@type": "Person",
+            "@id": "https://kasuma.id/#person",
+            "name": "I Gede Kasuma Dana",
+            "alternateName": ["Kasuma Dana", "kasumadana"],
+            "url": "https://kasuma.id/",
+            "image": "https://kasuma.id/assets/profile.webp",
+            "jobTitle": "Software Engineer",
+            "alumniOf": {
+              "@type": "EducationalOrganization",
+              "name": "SMK Negeri 1 Denpasar"
+            },
+            "sameAs": [
+              "https://me.kasuma.id",
+              "https://aksa.kasuma.id",
+              "https://github.com/kasumadana",
+              "https://linkedin.com/in/kasumadana",
+              "https://instagram.com/kasumadana"
+            ]
+          }
+        ]
+      }
+    </script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            fontFamily: {
+              sans: ["Inter", "sans-serif"],
+              mono: ["JetBrains Mono", "monospace"],
+            },
+            colors: {
+              concrete: "#f4f4f4",
+              ash: "#eaeaea",
+              bone: "#e1e1e1",
+              smoke: "#b8b8b8",
+              charcoal: "#312e2e",
+              ink: "#201d1d",
+              obsidian: "#151313",
+              volt: "#a1ff62",
+              ultraviolet: "#6840ff",
+              vermillion: "#f84131",
+            },
+          },
+        },
+      };
+    </script>
   </head>
-  <body>
-    <p>hi:)</p>
-    <a href="https://me.kasuma.id">这是我的个人资料</a>
+  <body
+    class="bg-[#f4f4f4] text-[#201d1d] min-h-screen font-sans flex flex-col items-center justify-between p-4 sm:p-8 antialiased selection:bg-[#a1ff62] selection:text-[#151313]"
+  >
+    <main class="w-full max-w-md flex flex-col items-center gap-6 my-auto">
+      <header class="flex flex-col items-center text-center w-full">
+        <div class="relative mb-3">
+          <div class="w-24 h-24 rounded-full overflow-hidden">
+            <img
+              src="assets/profile.webp"
+              onerror="
+                this.onerror = null;
+                this.src = 'https://github.com/kasumadana.png';
+              "
+              alt="Kasuma Dana"
+              class="w-full h-full object-cover rounded-full"
+            />
+          </div>
+        </div>
+
+        <h1
+          class="text-3xl font-extrabold tracking-tighter text-[#201d1d] uppercase leading-none"
+        >
+          Kasuma Dana
+        </h1>
+        <p class="text-xs font-mono text-[#7a7a7a] tracking-tight mt-1.5">
+          @kasumadana &bull; Software Engineer &bull; Bali
+        </p>
+      </header>
+
+      <div class="w-full flex flex-col gap-2.5">
+        <div class="flex items-center justify-between px-1 pt-2">
+          <span
+            class="text-[11px] font-mono uppercase tracking-wider text-[#7a7a7a]"
+            >01 / Media Sosial</span
+          >
+          <span class="text-[10px] font-mono text-[#7a7a7a]">3 Tautan</span>
+        </div>
+
+        <a
+          href="https://instagram.com/kasumadana"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="group bg-[#151313] text-[#f4f4f4] border border-[#312e2e] rounded-[5px] p-3.5 flex items-center justify-between hover:border-[#a1ff62] transition-colors"
+        >
+          <div class="flex flex-col">
+            <span
+              class="text-[10px] font-mono text-[#a1ff62] uppercase tracking-wider"
+              >Sosial</span
+            >
+            <span
+              class="text-base font-bold tracking-tight text-[#f4f4f4] group-hover:text-[#a1ff62] transition-colors"
+              >Instagram</span
+            >
+            <span class="text-xs font-mono text-[#b8b8b8]">@kasumadana</span>
+          </div>
+          <div
+            class="w-8 h-8 rounded-full bg-[#201d1d] border border-[#312e2e] flex items-center justify-center text-[#a1ff62] group-hover:bg-[#a1ff62] group-hover:text-[#151313] transition-colors text-sm"
+          >
+            &nearr;
+          </div>
+        </a>
+
+        <a
+          href="https://linkedin.com/in/kasumadana"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="group bg-[#151313] text-[#f4f4f4] border border-[#312e2e] rounded-[5px] p-3.5 flex items-center justify-between hover:border-[#a1ff62] transition-colors"
+        >
+          <div class="flex flex-col">
+            <span
+              class="text-[10px] font-mono text-[#a1ff62] uppercase tracking-wider"
+              >Karier</span
+            >
+            <span
+              class="text-base font-bold tracking-tight text-[#f4f4f4] group-hover:text-[#a1ff62] transition-colors"
+              >LinkedIn</span
+            >
+            <span class="text-xs font-mono text-[#b8b8b8]">in/kasumadana</span>
+          </div>
+          <div
+            class="w-8 h-8 rounded-full bg-[#201d1d] border border-[#312e2e] flex items-center justify-center text-[#a1ff62] group-hover:bg-[#a1ff62] group-hover:text-[#151313] transition-colors text-sm"
+          >
+            &nearr;
+          </div>
+        </a>
+
+        <a
+          href="https://github.com/kasumadana"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="group bg-[#151313] text-[#f4f4f4] border border-[#312e2e] rounded-[5px] p-3.5 flex items-center justify-between hover:border-[#a1ff62] transition-colors"
+        >
+          <div class="flex flex-col">
+            <span
+              class="text-[10px] font-mono text-[#a1ff62] uppercase tracking-wider"
+              >Repositori</span
+            >
+            <span
+              class="text-base font-bold tracking-tight text-[#f4f4f4] group-hover:text-[#a1ff62] transition-colors"
+              >GitHub</span
+            >
+            <span class="text-xs font-mono text-[#b8b8b8]"
+              >github.com/kasumadana</span
+            >
+          </div>
+          <div
+            class="w-8 h-8 rounded-full bg-[#201d1d] border border-[#312e2e] flex items-center justify-center text-[#a1ff62] group-hover:bg-[#a1ff62] group-hover:text-[#151313] transition-colors text-sm"
+          >
+            &nearr;
+          </div>
+        </a>
+
+        <div class="flex items-center justify-between px-1 pt-4">
+          <span
+            class="text-[11px] font-mono uppercase tracking-wider text-[#7a7a7a]"
+            >02 / Web & Proyek</span
+          >
+          <span class="text-[10px] font-mono text-[#7a7a7a]">3 Rilis</span>
+        </div>
+
+        <a
+          href="https://me.kasuma.id"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="group bg-[#151313] text-[#f4f4f4] border border-[#312e2e] rounded-[5px] p-3.5 flex items-center justify-between hover:border-[#a1ff62] transition-colors"
+        >
+          <div class="flex flex-col">
+            <div class="flex items-center gap-2">
+              <span
+                class="text-[10px] font-mono text-[#a1ff62] uppercase tracking-wider"
+                >Situs Utama</span
+              >
+            </div>
+            <span
+              class="text-base font-bold tracking-tight text-[#f4f4f4] group-hover:text-[#a1ff62] transition-colors"
+              >me.kasuma.id</span
+            >
+            <span class="text-xs font-mono text-[#b8b8b8]"
+              >Portofolio Utama & Beranda</span
+            >
+          </div>
+          <div
+            class="w-8 h-8 rounded-full bg-[#201d1d] border border-[#312e2e] flex items-center justify-center text-[#a1ff62] group-hover:bg-[#a1ff62] group-hover:text-[#151313] transition-colors text-sm"
+          >
+            &nearr;
+          </div>
+        </a>
+
+        <a
+          href="https://aksa.kasuma.id"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="group bg-[#151313] text-[#f4f4f4] border border-[#312e2e] rounded-[5px] p-3.5 flex items-center justify-between hover:border-[#a1ff62] transition-colors"
+        >
+          <div class="flex flex-col">
+            <div class="flex items-center gap-2">
+              <span
+                class="text-[10px] font-mono text-[#a1ff62] uppercase tracking-wider"
+                >Platform</span
+              >
+            </div>
+            <span
+              class="text-base font-bold tracking-tight text-[#f4f4f4] group-hover:text-[#a1ff62] transition-colors"
+              >aksa.kasuma.id</span
+            >
+            <span class="text-xs font-mono text-[#b8b8b8]"
+              >Adaptive Learning System</span
+            >
+          </div>
+          <div
+            class="w-8 h-8 rounded-full bg-[#201d1d] border border-[#312e2e] flex items-center justify-center text-[#a1ff62] group-hover:bg-[#a1ff62] group-hover:text-[#151313] transition-colors text-sm"
+          >
+            &nearr;
+          </div>
+        </a>
+
+        <a
+          href="https://www.tarupramana.web.id"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="group bg-[#151313] text-[#f4f4f4] border border-[#312e2e] rounded-[5px] p-3.5 flex items-center justify-between hover:border-[#a1ff62] transition-colors"
+        >
+          <div class="flex flex-col">
+            <div class="flex items-center gap-2">
+              <span
+                class="text-[10px] font-mono text-[#a1ff62] uppercase tracking-wider"
+                >Aplikasi Web</span
+              >
+            </div>
+            <span
+              class="text-base font-bold tracking-tight text-[#f4f4f4] group-hover:text-[#a1ff62] transition-colors"
+              >www.tarupramana.web.id</span
+            >
+            <span class="text-xs font-mono text-[#b8b8b8]"
+              >AI Pengobatan Herbal Bali</span
+            >
+          </div>
+          <div
+            class="w-8 h-8 rounded-full bg-[#201d1d] border border-[#312e2e] flex items-center justify-center text-[#a1ff62] group-hover:bg-[#a1ff62] group-hover:text-[#151313] transition-colors text-sm"
+          >
+            &nearr;
+          </div>
+        </a>
+      </div>
+
+      <div
+        class="w-full flex items-center justify-between p-3 bg-[#eaeaea] border border-[#e1e1e1] rounded-[5px] mt-2"
+      >
+        <div class="flex flex-col">
+          <span class="text-[10px] font-mono text-[#7a7a7a] uppercase"
+            >Surel Langsung</span
+          >
+          <span class="text-xs font-mono font-bold text-[#201d1d]"
+            >kasumadana06@gmail.com</span
+          >
+        </div>
+        <button
+          onclick="
+            navigator.clipboard.writeText('kasumadana06@gmail.com');
+            this.innerText = 'Tersalin';
+            setTimeout(() => (this.innerText = 'Salin'), 1500);
+          "
+          class="px-3.5 py-1.5 rounded-full bg-[#151313] text-[#f4f4f4] text-xs font-mono font-semibold hover:bg-[#a1ff62] hover:text-[#151313] transition-colors"
+        >
+          Salin
+        </button>
+      </div>
+    </main>
+
+    <footer class="mt-8 text-center">
+      <p class="text-[11px] font-mono text-[#7a7a7a] tracking-tight">
+        &copy; 2026 Kasuma Dana &bull; Denpasar, Bali
+      </p>
+    </footer>
   </body>
 </html>

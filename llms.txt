@@ -1,0 +1,24 @@
+# I Gede Kasuma Dana — Official Portal & Directory
+
+> I Gede Kasuma Dana (Kasuma Dana) is a Software Engineering student and Full-Stack Developer from Bali, Indonesia. This site serves as the apex portal connecting his portfolio, software platforms, and digital projects.
+
+## Official Web Identity & Ecosystem
+- Main Portfolio: https://me.kasuma.id/ (Comprehensive projects, interactive credentials, resume, and contact)
+- Learning Platform (Aksa): https://aksa.kasuma.id/ (Adaptive Kinesthetic Learning Platform powered by AI and vision tracking)
+- TaruPramana Project: https://www.tarupramana.web.id/ (Balinese herbal medicine recommendation system using AI)
+- GitHub Profile: https://github.com/kasumadana
+- LinkedIn: https://www.linkedin.com/in/kasumadana/
+- Instagram: https://instagram.com/kasumadana
+
+## Author & Developer Information
+- Full Name: I Gede Kasuma Dana
+- Also Known As: Kasuma Dana, @kasumadana
+- Occupation: Software Engineer / Student Developer
+- Location: Denpasar, Bali, Indonesia
+- School: SMK Negeri 1 Denpasar (Rekayasa Perangkat Lunak)
+- Specialization: Full-Stack Web Development, Next.js, React, Tailwind CSS, MediaPipe, AI Integrations
+- Direct Email: kasumadana06@gmail.com
+
+## Key Projects
+- Aksa (https://aksa.kasuma.id): An adaptive learning environment combining AI curriculum generation, camera-based touchless gesture quizzes, and interactive pedagogy.
+- TaruPramana (https://www.tarupramana.web.id): Digital preservation and AI semantic search for traditional Balinese herbal medicine (lontar), recognized as Best Capstone Project at Coding Camp DBS Foundation 2026.
