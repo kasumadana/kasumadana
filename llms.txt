@@ -17,7 +17,7 @@
 - Location: Denpasar, Bali, Indonesia
 - School: SMK Negeri 1 Denpasar (Rekayasa Perangkat Lunak)
 - Specialization: Full-Stack Web Development, Next.js, React, Tailwind CSS, MediaPipe, AI Integrations
-- Direct Email: kasumadana06@gmail.com
+- Direct Email: contact@kasuma.id
 
 ## Key Projects
 - Aksa (https://aksa.kasuma.id): An adaptive learning environment combining AI curriculum generation, camera-based touchless gesture quizzes, and interactive pedagogy.

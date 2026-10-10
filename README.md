@@ -1,58 +1,36 @@
-<h1 align="center">Hi 👋, I'm Kasuma Dana</h1>
+# Kasuma Dana
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Header Banner" width="100%" />
-</p>
+Siswa Rekayasa Perangkat Lunak di SMK Negeri 1 Denpasar, Bali. Berfokus pada pengembangan aplikasi web full-stack dan antarmuka interaktif berbasis visi komputer.
 
-## 🚀 About Me
-Siswa Rekayasa Perangkat Lunak di SMK Negeri 1 Denpasar yang berfokus pada pengembangan Full-Stack Web. Gemar membangun sistem yang efisien dengan antarmuka yang rapi dan bersih.
+- **Portal Web**: [kasuma.id](https://kasuma.id)
+- **Portofolio**: [me.kasuma.id](https://me.kasuma.id)
+- **Surel**: [contact@kasuma.id](mailto:contact@kasuma.id)
+- **LinkedIn**: [linkedin.com/in/kasumadana](https://www.linkedin.com/in/kasumadana/)
 
-### 🏆 Key Credentials
+---
+
+## Kredensial & Penghargaan
+
 - **Juara 2 LKS Web Technology** — Tingkat Provinsi Bali (2026)
-- **Distinction Graduate & Best Capstone (TaruPramana)** — Coding Camp by DBS Foundation (2026)
+- **Distinction Graduate & Best Capstone Project (TaruPramana)** — Coding Camp by DBS Foundation (2026)
 - **Juara 1 Cepat Tepat IT Regional** & **Juara 2 AI Website Competition YCWC** (2025)
 
-### 🛠️ Featured Projects
-- **TaruPramana**: Rekomendasi obat herbal Bali berbasis AI (*React, Express, OpenAI API, Tailwind*).
-- **Siventaris**: Manajemen logistik sekolah real-time berbasis QR Code (*Laravel, Livewire, Alpine.js, Tailwind*).
-- **Skenspace**: Galeri portofolio digital untuk publikasi karya siswa (*PHP, MySQL, Vanilla JS*).
-- **Rare Angon**: Web game kontrol layangan berbasis visi komputer (*TensorFlow MediaPipe, JS*).
+---
+
+## Proyek Pilihan
+
+- **[Aksa](https://aksa.kasuma.id)**: Platform pembelajaran adaptif dengan generator kurikulum AI dan kuis gestur kamera bebas sentuh (_Next.js, TypeScript, MediaPipe, Supabase_).
+- **[TaruPramana](https://www.tarupramana.web.id)**: Sistem rekomendasi obat herbal lontar Bali berbasis AI (_React, Express, OpenAI API, Tailwind CSS_).
+- **Siventaris**: Manajemen inventaris logistik sekolah real-time berbasis QR Code (_Laravel, Livewire, Alpine.js, Tailwind CSS_).
+- **Rare Angon**: Eksplorasi game interaktif kontrol layangan berbasis pelacakan gestur tangan (_TensorFlow.js, MediaPipe, Canvas_).
 
 ---
 
-## 📊 GitHub Activity
+## Statistik GitHub
+
 <p align="center">
   <a href="https://github.com/kasumadana">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kasumadana&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="kasumadana's GitHub Stats" />
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kasumadana&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=6" alt="Statistik GitHub Kasuma Dana" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=kasumadana&theme=github_dark&hide_border=true&cache_seconds=86400" alt="kasumadana's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=kasumadana&theme=github_dark&hide_border=true&border_radius=6&cache_seconds=86400" alt="GitHub Streak Kasuma Dana" height="160em" />
 </p>
-
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=kasumadana&theme=github_dark&radius=10" alt="kasumadana's Activity Graph" />
-</p>
-
----
-
-## 📫 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/kasumadana/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://kasuma.ai.studio">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="mailto:kasumadana06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
-</picture>
